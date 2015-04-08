@@ -1,0 +1,6 @@
+Step 1. Diving Into Git, An OCS Student's Experience
+
+Nothing new here.  I already know how to branch, commit, and merge.  
+The starting point of first learning to play with git.
+
+Testing tags.
